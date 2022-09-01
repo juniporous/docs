@@ -1,3 +1,5 @@
+// please put import/npm install addresses in the docs for respective interfaces/libraries?
+
 The Uniswap V3 Factory facilitates creation of Uniswap V3 pools and control over the protocol fees
 
 ## Functions
